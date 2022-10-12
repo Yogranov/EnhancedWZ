@@ -1,0 +1,32 @@
+{
+    "red_alert": {
+        "expected_colors": [
+            {
+                "coordinate": [1625, 725],
+                "color": [160, 60, 40]
+            },
+            {
+                "coordinate": [764, 720],
+                "color": [160, 60, 40]
+            }
+        ],
+        "unexpected_colors": []
+    },
+    "precision_airstrike": {
+        "expected_colors": [
+            {
+                "coordinate": [1067, 718],
+                "color": [255, 255, 255]
+            },
+            {
+                "coordinate": [1201, 729],
+                "color": [255, 255, 255]
+            },
+            {
+                "coordinate": [1322, 722],
+                "color": [255, 255, 255]
+            }
+        ],
+        "unexpected_colors": []
+    }
+}
